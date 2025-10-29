@@ -23,7 +23,7 @@ This release includes an **automatic installer** for easy mod setup! No more man
 ## 🛠️ Installation Instructions
 
 ### Option 1: Automatic Installation (Recommended)
-1. **Download** `DuckovRarityInstaller.exe`
+1. **Download** `zip file`
 2. **Run** the executable as Administrator
 3. **Follow** the on-screen instructions
 4. **Launch** the game and enable the mod in settings
