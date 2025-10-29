@@ -1,0 +1,7 @@
+{
+    "name": "RarityIndicator",
+    "version": "1.2.0",
+    "author": "YourName",
+    "description": "Adds color-coded rarity system for items with visual effects",
+    "compatibility": "1.5.0+"
+}
