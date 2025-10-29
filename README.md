@@ -6,6 +6,31 @@
 
 A visual enhancement mod for Escape From Duckov that adds a comprehensive item rarity system with clean, intuitive displays.
 
+# Release: Duckov Rarity Indicator Mod v1.0.0 - Auto Installer
+
+## 🚀 What's New
+
+This release includes an **automatic installer** for easy mod setup! No more manual file copying or folder creation.
+
+## 📦 Files Included
+
+- `build.exe` - Automatic installer
+- `rarity_mod.py` - Main mod file
+- `mod.json` - Mod configuration
+- `rarity_config.json` - Rarity settings
+- `README.md` - Documentation
+
+## 🛠️ Installation Instructions
+
+### Option 1: Automatic Installation (Recommended)
+1. **Download** `DuckovRarityInstaller.exe`
+2. **Run** the executable as Administrator
+3. **Follow** the on-screen instructions
+4. **Launch** the game and enable the mod in settings
+
+### Option 2: Manual Installation
+If you prefer manual setup, extract all files to:
+
 ## ✨ Features
 
 ### 🎨 Visual Rarity System
